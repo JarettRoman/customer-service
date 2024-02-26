@@ -1,6 +1,6 @@
 ### How to run
 
-- `node app.js` - starts server
+- `node app.js` - starts server (port 3000)
 - `npm test` - run unit tests
 
 ## Customer
