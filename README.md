@@ -1,0 +1,2 @@
+- `node app.js` - starts server
+- `npm test` - run unit tests
